@@ -1,0 +1,11 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}* Copyright (C) Bart Certyn - All Rights Reserved
+${licensePrefix}* Unauthorized copying of this file, without permission of the writer, via any medium, is strictly prohibited ${licensePrefix}
+${licensePrefix}* Proprietary ${licensePrefix}
+${licensePrefix}* Written by Bart Certyn <bart.certyn@hotmail.com>, 2017 ${licensePrefix}
+${licensePrefix}* Original code can be found here: https://github.com/BartCertyn/Amicato${licensePrefix}
+<#if licenseLast??>
+${licenseLast}
+</#if>
